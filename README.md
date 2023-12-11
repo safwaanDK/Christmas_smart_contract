@@ -1,3 +1,5 @@
+# DAY 1 OF 12 CODEXMAS
+# CHALLENGE DESCRIPTION [BEGINNER]
 # Christmas Greeting Smart Contract
 
 ## Contract Address
