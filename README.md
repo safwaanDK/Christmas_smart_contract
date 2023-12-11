@@ -2,6 +2,16 @@
 # CHALLENGE DESCRIPTION [BEGINNER]
 # Christmas Greeting Smart Contract
 
+## Smart Contract
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract Christmas {
+    function greet() public pure returns (string memory) {
+        return "Ho, Ho, Ho, Merry Christmas!";
+    }
+}
+
 ## Contract Address
 `0xffe0ecc1c84ca538c61ebc383f6da31450f82d56`
 
